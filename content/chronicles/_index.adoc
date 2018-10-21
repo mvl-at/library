@@ -1,0 +1,8 @@
+---
+title: "Chronik"
+draft: false
+layout: "list"
+---
+
+Hier befindet sich die Chronik des Musikverein Leopoldsdorf.
+Zusätzlich zu den Chroniken existieren außerdem Listen von Kapellmeistern und Obmännern der Vergangenheit.

@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "de-at"
+title = "Bibliothek"
+theme = "ananke"
+SectionPagesMenu = "main"
+Paginate = 12
+
+[params]
+  featured_image = "/images/alle-cut.jpg"
+  github = "https://github.com/mvl-at"
+  custom_css = ["css/custom.css"]
+  facebook = "https://www.facebook.com/mvleopoldsdorf"
+  background_color_class = "bg-dark-blue"
+  description = "Musikverein Leopoldsdorf"
